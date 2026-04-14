@@ -1,0 +1,17 @@
+Soy sergio Emanuel Alvares Benavidez, tengo la edad de 19, soy una persona tranquila y normal, mi hobbie favorito es escuchar musica
+
+estoy aprendiendo a usar git otra vez, y estos fueron los comando que use:
+git config → Configura el nombre y correo del usuario.
+
+git clone → Clona (descarga) el repositorio remoto a la computadora.
+cd → Permite entrar a la carpeta del proyecto.
+git status → Muestra el estado actual de los archivos.
+git checkout → Cambia de rama.
+git checkout -b → Crea una nueva rama y se mueve a ella.
+git branch → Muestra las ramas disponibles.
+touch → Crea un archivo nuevo (por ejemplo, .md).
+code → Abre el archivo en Visual Studio Code.
+git add → Añade archivos al área de preparación.
+git commit → Guarda los cambios con un mensaje.
+git push → Sube los cambios al repositorio remoto en GitHub.
+git log → Muestra el historial de commits y su identificador (hash).
