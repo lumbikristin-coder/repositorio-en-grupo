@@ -1,0 +1,6 @@
+Soy Jefferson Yamil Portillo Hernandez, tengo 16 años, me gustan los videojuegos y estoy aprendiendo a usar git y sus respectivos comandos.
+git clone: Clona el repositorio remoto.
+-git checkout -b: Crea una nueva rama.
+-git add: Añade archivos al área de preparación.
+-git commit: Guarda los cambios.
+-git push: Sube los cambios al repositorio.
