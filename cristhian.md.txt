@@ -1,0 +1,11 @@
+Presentación 
+Hola mi Nombre es Cristhian Lumbi, Ing sistemas 1er año
+ Comandos utilizados 
+git clone
+git checkout -b
+git add
+git commit
+git push 
+
+Commit final 
+Hassh:
